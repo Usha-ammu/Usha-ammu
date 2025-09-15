@@ -38,15 +38,15 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 ### 🚀  Skills
 #### *Languages & Frameworks*
 <p align="left">
+<img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" title="Figma" />
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-xd.png" alt="Adobe XD" title="Adobe XD" />
+<img width="50" height="50" src="https://img.icons8.com/color/48/canva.png" alt="Canva" title="Canva" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
-<img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" title="Express.js" />
-<img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" /> 
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
@@ -57,12 +57,15 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 
 ### 🛠 Tools I Use
 <p align="left">
+<img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" title="Figma"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-xd.png" alt="Adobe XD" title="Adobe XD"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/canva.png" alt="Canva" title="Canva"/>
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
 
 - *Workspace Setup:*<br>
-   ⭐ Laptop: *Dell Inspiron 15* <br>
+   ⭐ Laptop: ** <br>
    ⭐ Processor: *Intel I5* <br>
    ⭐ Graphics: *Integrated Radeon Graphics* <br>
    ⭐ RAM: *16GB* <br>
