@@ -80,10 +80,7 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
 </a>
  
-  <!-- CodeChef -->
-<a href="https://www.codechef.com/users/uma_1503" target="CodeChef">
-<img width="48" height="48" src="https://img.icons8.com/color/48/codechef.png" alt="codechef"/>
-</p>
+
 
 
 💡 *"The only way to win is to not be afraid of losing!  Ratan Tata"*
