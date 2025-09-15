@@ -76,9 +76,8 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 ### 📫 Platform I Use
 <p align="left">
   
-<!-- LeetCode -->
-<a href="https://leetcode.com/u/Umamageshwari/" target="LeetCode">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+<a href="https://www.hackerrank.com/profile/KSRIETCSECS_USHA">
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
 </a>
  
   <!-- CodeChef -->
